@@ -3,9 +3,13 @@
  */
 package com.mob.hbase.pojo;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 /**
+ * Hbase 分页
+ * 
  * @author zxc Nov 12, 2015 11:50:17 AM
  */
 public class PageHBase<T> {
